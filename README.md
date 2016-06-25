@@ -1,2 +1,5 @@
 # hello-world
-Just Another Repositry
+
+Hi guys,
+
+I am Rajit. I love gaming, swimming, and just hanging out. I am sophomore CS student at UCSD.
